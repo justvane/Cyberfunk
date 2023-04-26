@@ -1,0 +1,11 @@
+679959e7917290c4d1380dafd36febcc
+::res://::1682552113
+CanvasLayer.tscn::PackedScene::1682552204::0::1::::<><>::res://Pause.gd
+Pause.gd::GDScript::1682552204::0::1::::<>Reference<>::
+default_env.tres::Environment::1682552204::0::1::::<><>::
+icon.png::StreamTexture::1679266295::1679266335::1::::<><>::
+Player.gd::GDScript::1679266295::0::1::::<>KinematicBody2D<>::
+player.png::StreamTexture::1679266295::1679266335::1::::<><>::
+Player.tscn::PackedScene::1682552113::0::1::::<><>::res://Player.gd<>res://player.png
+states.gd::GDScript::1679266295::0::1::::<>Node2D<>::
+TestGametest.tscn::PackedScene::1682552162::0::1::::<><>::res://Player.tscn<>res://icon.png
